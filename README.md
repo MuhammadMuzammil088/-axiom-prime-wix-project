@@ -1,5 +1,5 @@
 # 🧠 Axiom Prime — Strategic Intelligence Web Project (Wix Studio)
-
+![AxiomPrime Demo](assets/axiomprime.gif)
 This is a **premium, invite-only business website** I developed for **Axiom Prime** using **Wix Studio**, targeting global executives in **AI, PR, Policy, and Healthcare**. The site highlights blockchain-secured media, immersive branding (AR/VR), and elite consulting access.
 
 ---
